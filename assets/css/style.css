@@ -3,11 +3,11 @@
     padding: 0;
     margin: 0;
 }
-
+/* Adding a background color to  the body of the site */
 body {
     background-color: #d9dcd6;
 }
-
+/* Adding style to the main headers & and positioning them*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -51,7 +51,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* Adding style to the Digital Marketing Meeting Image */
 .hero {
     height: 800px;
     width: 100%;
@@ -70,13 +70,13 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* Adding style to the content of the website */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Adding style to the search engine optimization paragraph */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -85,7 +85,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Adding style to the online reputation management paragraph */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -94,7 +94,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Adding style to the social-media-marketing paragraph */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -103,7 +103,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Adding style to the subheaders' images */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -115,22 +115,22 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
-
+/* Adding style to the subheaders */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.online-reputation-management h3 {
+.online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.social-media-marketing h4 {
+.social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Adding style to the benefits section of the page */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -140,7 +140,7 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-    font-size: 20px;
+    
 }
 
 .benefit-lead {
@@ -178,7 +178,7 @@ p {
     text-align: center;
    
 }
-
+/* Adding style to the benefits' images */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -199,14 +199,15 @@ p {
     max-width: 150px;
     
 }
-    <!--Adding style to the Footer-->
-footer {
+  /* Adding style to the footer */
+.footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-footer h2 {
+.footer h2 {
     font-size: 20px;
+    
 }
